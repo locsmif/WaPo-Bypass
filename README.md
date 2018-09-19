@@ -10,3 +10,5 @@ Add the following to your filters in uBlock Origin or variants:
     ||washingtonpost.com/*/identity-management/*
 
 This will take care of the soft paywall.
+
+uBlock Origin is available here: https://github.com/gorhill/uBlock
